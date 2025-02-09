@@ -15,13 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-你好，我是HzmSailor.
-
-欢迎来[我的主页](https://hzmsailor.com)~
-
-
+![](https://api.xecades.xyz/api?color=190%2C190%2C190%2C1&img=3&date=2025-11-09&str=%E6%88%91%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E7%94%9F%E6%97%A5&quote=%E7%A5%9D%E6%82%A8%E7%94%9F%E6%B4%BB%E6%84%89%E5%BF%AB&site=hzmsailor.com&email=zimuhan276%40gmail.com&github=Dasai-Hzm&wechat=HZMDS1109&qq=1077673527)
 **Coding Language**
 
 ![](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)![](https://img.shields.io/badge/cpp-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
