@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://api.xecades.xyz/api?color=190%2C190%2C190%2C1&img=3&date=2025-11-09&str=%E6%88%91%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E7%94%9F%E6%97%A5&quote=%E7%A5%9D%E6%82%A8%E7%94%9F%E6%B4%BB%E6%84%89%E5%BF%AB&site=hzmsailor.com&email=zimuhan276%40gmail.com&github=Dasai-Hzm&wechat=HZMDS1109&qq=1077673527)
+![](https://api.xecades.xyz/api?color=136%2C53%2C164%2C1&img=2&str=%E6%88%91%E7%9A%84%E7%94%9F%E6%97%A5&date=2025-11-09&quote=%E7%A5%9D%E6%82%A8%E7%94%9F%E6%B4%BB%E6%84%89%E5%BF%AB&bg=244%2C249%2C101%2C0.21&github=Dasai-Hzm&site=hzmsailor.com&qq=1077673527&wechat=HZMDS1109&email=zimuhan276%40gmail.com)
 **Coding Language**
 
 ![](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)![](https://img.shields.io/badge/cpp-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
